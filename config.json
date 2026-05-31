@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpync",
+        "uuid": 19118832,
+        "checksum": "s4duya"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
